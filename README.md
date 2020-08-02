@@ -11,7 +11,7 @@
 2017年, 在实习工作中接触Angular, 当时国内资料甚少, 基本都是翻墙查的. 从开始的不适应到最后的依赖, 非常喜欢这款大而全的框架. 美中不足的是存在一定的学习成本, 所以自己亲自写了一份教程, 该教程挂在自费购买的一个域名下, 最高日访问量数千, 随着国内资料的增多, 该网站也渐渐无人问津, 但这是好事儿, 说明国内社区丰富、强大了起来. 该教程已停更, 我将在其他ng社区发光发亮💡
 
  - Repo: [https://github.com/Mr-Eve/ng-series-study](https://github.com/Mr-Eve/ng-series-study)
- - Demo: [angular.ink](angular.ink)
+ - Demo: [http://eve-angular.weishour.com/](http://eve-angular.weishour.com/)
  - Mention: [2018年已过一半，为什么绝大部分前端团队还是无法重视Angular？](https://www.zhihu.com/question/290103721/answer/474246296) 
 
 ### 🔔网易云音乐
