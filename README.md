@@ -4,9 +4,9 @@
 
 平时喜欢打LOL, 国服第一莫甘娜, 欢迎来中路对线💪
 
-喜欢折腾, 经常会做些好玩有趣的东西~
+喜欢折腾, 经常会做些好玩有趣的东西🎉
 
-🎉非常感谢你能够在这人来人往, 熙熙攘攘的世界中关注到我🤭 我是前夕, 期待未来我们能有更多地交集✨
+非常感谢你, 能够在这人来人往、熙熙攘攘的世界中关注到我🤭 我是前夕, 期待未来我们能有更多地交集✨
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eve-Sama)](https://github.com/anuraghazra/github-readme-stats)
 
