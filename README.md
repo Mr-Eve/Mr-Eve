@@ -12,9 +12,9 @@
 
  - 扎实的前端基础, 精通HTML、CSS、JavaScript
  - 熟练使用Angular、React、Vue中的一个(Angular优先考虑)
- - 具背较强的沟通能力和团队合作精神；具备较强的责任感
+ - 具备较强的沟通能力和团队合作精神；具备较强的责任感
  - 有较强的自驱力、学习力, 关注前端生态发展
 
-欢迎自荐或推荐(如推荐, 则有现金红包, 具体看推荐等级), 简历发送至948832626@qq.com
+欢迎自荐或推荐(如推荐, 则有现金红包, 具体看推荐等级), 简历发送至948832626@qq.com.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Eve-Sama)](https://github.com/Eve-Sama)
