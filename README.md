@@ -11,6 +11,7 @@
 #### 我们希望你:
 
  - 扎实的前端基础, 精通HTML、CSS、JavaScript
+ - 熟悉TypeScript、SCSS/LESS、工程化
  - 熟练使用Angular、React、Vue中的一个(Angular优先考虑)
  - 具备较强的沟通能力和团队合作精神；具备较强的责任感
  - 有较强的自驱力、学习力, 关注前端生态发展
