@@ -16,6 +16,9 @@
  - 具备较强的沟通能力和团队合作精神；具备较强的责任感
  - 有较强的自驱力、学习力, 关注前端生态发展
 
-欢迎自荐或推荐(如推荐, 则有现金红包, 具体看推荐等级), 简历发送至948832626@qq.com.
+
+有求职意向 or 希望了解公司情况 or 希望切磋技术 or 简历评估的，都欢迎加我WX详聊: qian-xi-sama
+
+亦可发送简历至 948832626@qq.com
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Eve-Sama)](https://github.com/Eve-Sama)
